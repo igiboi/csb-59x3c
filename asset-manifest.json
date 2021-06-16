@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://igiboi.github.io/csb-59x3c/static/js/main.9f44d01c.chunk.js",
+    "main.js.map": "https://igiboi.github.io/csb-59x3c/static/js/main.9f44d01c.chunk.js.map",
+    "runtime-main.js": "https://igiboi.github.io/csb-59x3c/static/js/runtime-main.0ab2f12e.js",
+    "runtime-main.js.map": "https://igiboi.github.io/csb-59x3c/static/js/runtime-main.0ab2f12e.js.map",
+    "static/js/2.ab7a44ae.chunk.js": "https://igiboi.github.io/csb-59x3c/static/js/2.ab7a44ae.chunk.js",
+    "static/js/2.ab7a44ae.chunk.js.map": "https://igiboi.github.io/csb-59x3c/static/js/2.ab7a44ae.chunk.js.map",
+    "index.html": "https://igiboi.github.io/csb-59x3c/index.html",
+    "precache-manifest.a7df08742a0513e1810047d4105ac97a.js": "https://igiboi.github.io/csb-59x3c/precache-manifest.a7df08742a0513e1810047d4105ac97a.js",
+    "service-worker.js": "https://igiboi.github.io/csb-59x3c/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab2f12e.js",
+    "static/js/2.ab7a44ae.chunk.js",
+    "static/js/main.9f44d01c.chunk.js"
+  ]
+}
